@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "pzmarzly",
-    "repositoryName": "pzmarzly.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"pzmarzly","repositoryName":"pzmarzly.github.io","branch":"master"},"site":{"title":"Blog Zmarzłego","url":"https://pzmarzly.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//pzmarzly.github.io/themes/Casper"}}
