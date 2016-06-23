@@ -1,0 +1,13 @@
+= OIG - Olimpiada Informatyczna Gimnazjalistów - czy warto?
+
+Już od 10 lat organizowany jest ogólnopolski konkurs programistyczny dla uczniów gimnazjów. Nie cieszy on się jednak należytym poziomem zainteresowania. Bo chociaż programowanie jest trudne na początku, wzięcie udziału w Olimpiadzie jest świetnym pomysłem.
+
+* Plusy i minusy *
+
+Dotarcie do finału Olimpiady daje ważny przywilej - zwalnia z systemu rekrutacyjnego szkół ponadgimnazjalnych. Znaczy to, że zostaniesz przyjęty do szkoły pierwszego wyboru niezależnie od wyników egzaminów gimnazjalnych i ocen na zakończenie trzeciej klasy, pod warunkiem, że nie spóźnisz się ze złożeniem dokumentów. Konieczne może też być przystąpienie do egzaminu wstępnego (np. językowego), lecz jego wynik nie ma wpływu na system rekrutacji (dla pewności polecam nie oddawać pustej kartki, skoro już się na egzamin przyszło).
+
+Nagrody rzeczowe są symboliczne, ale można liczyć np. na pendrive 32GB z USB 3. Ciekawszy jest zasponsorowany weekend w Gdyni, w którego skład wchodzą noclegi, wyżywienie i wycieczka. Można nie skorzystać, ale zachęcam do poznawania nowych ludzi.
+
+Podsumowując argumenty świadczące za wzięciem udziału i postaraniu się, mogę się zgodzić z usłyszanym komentarzem, że OIG to najprostszy sposób na "przejście" przez gimnazjum. Chociaż leniwe podejście do nauki nie jest dobre (luki w wiedzy w liceum), zostanie finalistą w pierwszej lub drugiej klasie gimnazjum pozwala na niestresowanie się egzaminami gimnazjalnymi. 
+
+Największą, bardzo oczywistą wadą jest konieczność poznania podstaw programowania w języku C++ albo Pascal (większość wybiera ten pierwszy).
