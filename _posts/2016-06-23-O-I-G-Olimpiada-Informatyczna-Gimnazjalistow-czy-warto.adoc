@@ -6,13 +6,27 @@ Już od 10 lat organizowany jest ogólnopolski konkurs programistyczny dla uczni
 
 Dotarcie do finału Olimpiady daje ważny przywilej - zwalnia z systemu rekrutacyjnego szkół ponadgimnazjalnych. Znaczy to, że zostaniesz przyjęty do szkoły pierwszego wyboru niezależnie od wyników egzaminów gimnazjalnych i ocen na zakończenie trzeciej klasy, pod warunkiem, że nie spóźnisz się ze złożeniem dokumentów. Konieczne może też być przystąpienie do egzaminu wstępnego (np. językowego), lecz jego wynik nie ma wpływu na system rekrutacji (dla pewności polecam nie oddawać pustej kartki, skoro już się na egzamin przyszło).
 
-Nagrody rzeczowe są symboliczne, ale można liczyć np. na pendrive 32GB z USB 3. Ciekawszy jest zasponsorowany weekend w Gdyni, w którego skład wchodzą noclegi, wyżywienie i wycieczka. Można nie skorzystać, ale zachęcam do poznawania nowych ludzi.
+Nagrody rzeczowe są symboliczne, ale można liczyć np. na pendrive 32GB. Ciekawszy jest zasponsorowany weekend w Gdyni, w którego skład wchodzą noclegi, wyżywienie i wycieczka. Można nie skorzystać, ale zachęcam do poznawania nowych ludzi.
 
 Podsumowując argumenty świadczące za wzięciem udziału i postaraniu się, mogę się zgodzić z usłyszanym komentarzem, że OIG to najprostszy sposób na "przejście" przez gimnazjum. Chociaż leniwe podejście do nauki nie jest dobre (luki w wiedzy w liceum), zostanie finalistą w pierwszej lub drugiej klasie gimnazjum pozwala na niestresowanie się egzaminami gimnazjalnymi. 
 
 Największą, bardzo oczywistą wadą jest konieczność poznania podstaw programowania w języku C++ albo Pascal (większość wybiera ten pierwszy). Nie wymaga się jednak poznania niczego bardzo skomplikowanego, wypiszę więc później, czego się należy nauczyć.
 
-Innym problemem jest konieczność dojazdu na miejsce, w którym odbywa się konkurs. Od wielu lat oznacza to podróż do Bielska-Białej w sobotę na drugi etap, a później do Gdyni w piątek na finał. Dojazd do obu tych miast może być utrudniony, można jechać z nauczycielem, z rodzicami lub w ostateczności samemu.
+Innym problemem jest konieczność dojazdu na miejsce, w którym odbywa się konkurs. Od wielu lat oznacza to podróż do Bielska-Białej w sobotę na drugi etap, a później do Gdyni w piątek na finał. Dojazd do obu tych miast może być utrudniony, można jechać z nauczycielem, z rodzicami lub (w ostateczności) samemu.
 
-*Potrzebna wiedza*
+*Potrzebne umiejętności - C++*
 
+Poniżej zamieściłem linki do programów, filmów, tutoriali i dokumentacji. Jeżeli czegoś nie rozumiesz, spójrz na przykłady.
+- obsługa Dev-C++ - najlepiej pobrać i testować http://www.dobreprogramy.pl/DevC,Program,Windows,28400.html (po otworzeniu programu wciśnij Ctrl-N aby pracować w trybie jednego pliku)
+- jeżeli wiesz, że zawsze w życiu masz pecha, przyzwyczaj się do skrótu Ctrl-S - Dev-C++ mi się zawiesił podczas drugiego etapu :D
+- lekcje 1-13, 17-20, 23, 27-31 i "Biblioteka <string>" z http://cpp0x.pl/kursy/Kurs-C++/1 i/lub filmy 1, 2, 3, 5, 8, 9, 11, opcjonalnie: 14 i 16 z http://miroslawzelent.pl/kurs-c++/
+- podrozdziały 2, 3, 10 i 11 z https://pl.wikibooks.org/wiki/C%2B%2B#Dodatek_A:_Biblioteka_STL
+- jeżeli nie obejrzałeś filmów opcjonalnych: http://cpp0x.pl/dokumentacja/standard-C++/sort/350
+- http://strefakodera.pl/programowanie/c/wczytywanie-i-wypisywanie-danych-w-c-za-pomoca-scanf-i-printf-szybsza-alternatywa-dla-cout-oraz-cin
+- http://en.cppreference.com/w/cpp/io/ios_base/sync_with_stdio - jeżeli nie zastosujesz się do porad z artykułu powyżej, użyj tej funkcji, aby przyśpieszyć kod
+- kod z pytania http://stackoverflow.com/questions/5590381/easiest-way-to-convert-int-to-string-in-c (na OIG nie jest używane C++0x)
+- zapoznaj się z https://www.sgi.com/tech/stl/ - podczas etapu 2 i 3 będziesz miał dostęp tylko do tej strony
+
+Po nawet powierzchownym przeczytaniu powyższych materiałów, spróbuj pobrać paczkę z zadaniami z pierwszego etapu zawodów drużynowych (łatwiejsze) lub indywidualnych z https://zadania.oig.edu.pl/OIG/useful_files i je wykonać. Jeżeli napotkasz jakiś problem i nie znajdziesz odpowiedzi w Google, to źle szukasz, ale możesz napisać do mnie lub wrzucić post na grupę https://web.facebook.com/groups/NastoletniProgramisci/ .
+
+Trochę tego jest, ale spokojnie, po opanowaniu podstaw ucz się przez doświadczenie. Warto!
