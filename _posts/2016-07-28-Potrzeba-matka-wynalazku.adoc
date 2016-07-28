@@ -1,0 +1,22 @@
+= Potrzeba matką wynalazku
+
+Jednym z największych problemów jest brak pomysłów - bo w końcu po co coś robić, jeżeli "wszystko już zostało odkryte"? Jest to myślenie błędne, ponieważ przez naśladowanie nauczysz się dużo więcej, niż się spodziewasz, a twój klon będziesz mógł dostosowywać i ulepszać. Oto krótka historia.
+
+Na internecie bezprzewodowym największą zmorą są nagłe, kilkusekundowe przerwy w dostępie oraz wysokie poziomy pingu. Jednak grając w popularne gry sieciowe, jak CS:GO i Warframe, często problemem nie jest połączenie internetowe, a serwer gry. Dlatego, aby rozróżnić przyczynę "lagów", potrzebowałem programu, który przez cały czas mierzyłby "ping" - opóźnienie między komputerem i wybranym serwerem, w moim przypadku google.pl (bo problemy z Google zdarzają się niezwykle rzadko). Gotowe rozwiązanie istniało - polecenie "ping" z paramerem "-t" będzie działało, dopóki nie zamkniemy okna lub wciśniemy Ctrl-C. Jednak posiadanie okna Wiersza poleceń nie jest wygodne.
+
+Rozwiązanie - program używający Windows Presentation Foundation, który będzie:
+
+* działał poprawnie przy powiększonej skali pulpitu (125% lub 150%) - zapewni to WPF
+* wyświetlał się nad innymi oknami - parametr TopMost w WPF, a gry uruchomione w trybie okna bez ramki
+* półprzeźroczysty - parametr Opacity w WPF
+
+Użyłem więc Visual Studio Community do stworzenia takiego programu, a po drodze dodałem:
+
+* opcje konfiguracji
+* zapisywanie ustawień w formacie JSON
+* wieloinstancyjność - program może być uruchomiony wiele razy jednocześnie, każda instancja będzie korzystała z własnego pliku ustawień
+* różne opóźnienia - program mierzy "ping" co sekundę przy niskich wartościach, co pół sekundy przy wysokich
+
+Gotowy program możecie znaleźć na https://github.com/pzmarzly/PingMeterGadget
+
+Co z tego wszystkiego wyniknęło? Że mój internet jest słaby, ale serwery popularnych gier jeszcze słabsze.
