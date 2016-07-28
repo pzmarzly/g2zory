@@ -17,15 +17,15 @@ Innym problemem jest konieczność dojazdu na miejsce, w którym odbywa się kon
 *Potrzebne umiejętności - C++*
 
 Poniżej zamieściłem linki do programów, filmów, tutoriali i dokumentacji. Jeżeli czegoś nie rozumiesz, spójrz na przykłady.
-- obsługa Dev-C++ - najlepiej pobrać i testować http://www.dobreprogramy.pl/DevC,Program,Windows,28400.html (po otworzeniu programu wciśnij Ctrl-N aby pracować w trybie jednego pliku)
-- jeżeli wiesz, że zawsze w życiu masz pecha, przyzwyczaj się do skrótu Ctrl-S - Dev-C++ mi się zawiesił podczas drugiego etapu :D
-- lekcje 1-13, 17-20, 23, 27-31 i "Biblioteka <string>" z http://cpp0x.pl/kursy/Kurs-C++/1 i/lub filmy 1, 2, 3, 5, 8, 9, 11, opcjonalnie: 14 i 16 z http://miroslawzelent.pl/kurs-c++/
-- podrozdziały 2, 3, 10 i 11 z https://pl.wikibooks.org/wiki/C%2B%2B#Dodatek_A:_Biblioteka_STL
-- jeżeli nie obejrzałeś filmów opcjonalnych: http://cpp0x.pl/dokumentacja/standard-C++/sort/350
-- http://strefakodera.pl/programowanie/c/wczytywanie-i-wypisywanie-danych-w-c-za-pomoca-scanf-i-printf-szybsza-alternatywa-dla-cout-oraz-cin
-- http://en.cppreference.com/w/cpp/io/ios_base/sync_with_stdio - jeżeli nie zastosujesz się do porad z artykułu powyżej, użyj tej funkcji, aby przyśpieszyć kod
-- kod z pytania http://stackoverflow.com/questions/5590381/easiest-way-to-convert-int-to-string-in-c (na OIG nie jest używane C++0x)
-- zapoznaj się z https://www.sgi.com/tech/stl/ - podczas etapu 2 i 3 będziesz miał dostęp tylko do tej strony
+* obsługa Dev-C++ - najlepiej pobrać i testować http://www.dobreprogramy.pl/DevC,Program,Windows,28400.html (po otworzeniu programu wciśnij Ctrl-N aby pracować w trybie jednego pliku)
+* jeżeli wiesz, że zawsze w życiu masz pecha, przyzwyczaj się do skrótu Ctrl-S - Dev-C++ mi się zawiesił podczas drugiego etapu :D
+* lekcje 1-13, 17-20, 23, 27-31 i "Biblioteka <string>" z http://cpp0x.pl/kursy/Kurs-C++/1 i/lub filmy 1, 2, 3, 5, 8, 9, 11, opcjonalnie: 14 i 16 z http://miroslawzelent.pl/kurs-c++/
+* podrozdziały 2, 3, 10 i 11 z https://pl.wikibooks.org/wiki/C%2B%2B#Dodatek_A:_Biblioteka_STL
+* jeżeli nie obejrzałeś filmów opcjonalnych: http://cpp0x.pl/dokumentacja/standard-C++/sort/350
+* http://strefakodera.pl/programowanie/c/wczytywanie-i-wypisywanie-danych-w-c-za-pomoca-scanf-i-printf-szybsza-alternatywa-dla-cout-oraz-cin
+* http://en.cppreference.com/w/cpp/io/ios_base/sync_with_stdio - jeżeli nie zastosujesz się do porad z artykułu powyżej, użyj tej funkcji, aby przyśpieszyć kod
+* kod z pytania http://stackoverflow.com/questions/5590381/easiest-way-to-convert-int-to-string-in-c (na OIG nie jest używane C++0x)
+* zapoznaj się z https://www.sgi.com/tech/stl/ - podczas etapu 2 i 3 będziesz miał dostęp tylko do tej strony
 
 Po nawet powierzchownym przeczytaniu powyższych materiałów, spróbuj pobrać paczkę z zadaniami z pierwszego etapu zawodów drużynowych (łatwiejsze) lub indywidualnych z https://zadania.oig.edu.pl/OIG/useful_files i je wykonać. Jeżeli napotkasz jakiś problem i nie znajdziesz odpowiedzi w Google, to źle szukasz, ale możesz napisać do mnie lub wrzucić post na grupę https://web.facebook.com/groups/NastoletniProgramisci/ .
 
