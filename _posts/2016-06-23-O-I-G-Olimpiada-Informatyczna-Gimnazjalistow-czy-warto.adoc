@@ -17,6 +17,7 @@ Innym problemem jest konieczność dojazdu na miejsce, w którym odbywa się kon
 *Potrzebne umiejętności - C++*
 
 Poniżej zamieściłem linki do programów, filmów, tutoriali i dokumentacji. Jeżeli czegoś nie rozumiesz, spójrz na przykłady.
+
 * obsługa Dev-C++ - najlepiej pobrać i testować http://www.dobreprogramy.pl/DevC,Program,Windows,28400.html (po otworzeniu programu wciśnij Ctrl-N aby pracować w trybie jednego pliku)
 * jeżeli wiesz, że zawsze w życiu masz pecha, przyzwyczaj się do skrótu Ctrl-S - Dev-C++ mi się zawiesił podczas drugiego etapu :D
 * lekcje 1-13, 17-20, 23, 27-31 i "Biblioteka <string>" z http://cpp0x.pl/kursy/Kurs-C++/1 i/lub filmy 1, 2, 3, 5, 8, 9, 11, opcjonalnie: 14 i 16 z http://miroslawzelent.pl/kurs-c++/
