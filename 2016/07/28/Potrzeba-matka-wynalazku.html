@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Potrzeba matką wynalazku</title>
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="//pzmarzly.github.io/g2zory/themes/Casper/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="//pzmarzly.github.io/g2zory/themes/Casper/assets/css/screen.css?v=1.0.0" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+
+    <link rel="canonical" href="https://pzmarzly.github.io/g2zory/2016/07/28/Potrzeba-matka-wynalazku.html" />
+    
+    <meta property="og:site_name" content="&lt;zmarzłem&gt;" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Potrzeba matką wynalazku" />
+    <meta property="og:description" content="Jednym z największych problemów jest brak pomysłów - bo w końcu po co coś robić, jeżeli &quot;wszystko już zostało odkryte&quot;? Jest to myślenie błędne, ponieważ przez naśladowanie nauczysz się dużo więcej, niż się spodziewasz, a twój klon będziesz mógł dostosowywać..." />
+    <meta property="og:url" content="https://pzmarzly.github.io/g2zory/2016/07/28/Potrzeba-matka-wynalazku.html" />
+    <meta property="article:published_time" content="2016-07-27T22:00:00.000Z" />
+    <meta property="article:modified_time" content="2016-07-28T19:02:23.985Z" />
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Potrzeba matką wynalazku" />
+    <meta name="twitter:description" content="Jednym z największych problemów jest brak pomysłów - bo w końcu po co coś robić, jeżeli &quot;wszystko już zostało odkryte&quot;? Jest to myślenie błędne, ponieważ przez naśladowanie nauczysz się dużo więcej, niż się spodziewasz, a twój klon będziesz mógł dostosowywać..." />
+    <meta name="twitter:url" content="https://pzmarzly.github.io/g2zory/2016/07/28/Potrzeba-matka-wynalazku.html" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "publisher": "&lt;zmarzłem&gt;",
+    "author": {
+        "@type": "Person",
+        "name": "Paweł Zmarzły",
+        "image": "https://avatars.githubusercontent.com/u/8074163?v=3",
+        "url": "undefined/author/undefined",
+        "sameAs": null
+    },
+    "headline": "Potrzeba matką wynalazku",
+    "url": "https://pzmarzly.github.io/g2zory/2016/07/28/Potrzeba-matka-wynalazku.html",
+    "datePublished": "2016-07-27T22:00:00.000Z",
+    "dateModified": "2016-07-28T19:02:23.985Z",
+    "description": "Jednym z największych problemów jest brak pomysłów - bo w końcu po co coś robić, jeżeli &quot;wszystko już zostało odkryte&quot;? Jest to myślenie błędne, ponieważ przez naśladowanie nauczysz się dużo więcej, niż się spodziewasz, a twój klon będziesz mógł dostosowywać..."
+}
+    </script>
+
+    <meta name="generator" content="Ghost ?" />
+    <link rel="alternate" type="application/rss+xml" title="&lt;zmarzłem&gt;" href="https://pzmarzly.github.io/g2zory/rss" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css">
+</head>
+<body class="post-template">
+
+    
+
+
+<header class="main-header post-head no-cover">
+    <nav class="main-nav  clearfix">
+        <a class="back-button icon-arrow-left" href="https://pzmarzly.github.io/g2zory">Home</a>
+        <!-- <a class="subscribe-button icon-feed" href="https://pzmarzly.github.io/g2zory/rss/">Subscribe</a> -->
+    </nav>
+</header>
+
+<main class="content" role="main">
+
+    <article class="post">
+
+        <header class="post-header">
+            <h1 class="post-title">Potrzeba matką wynalazku</h1>
+            <section class="post-meta">
+                
+            </section>
+        </header>
+
+        <section class="post-content">
+            <div class="paragraph">
+<p>Jednym z największych problemów jest brak pomysłów - bo w końcu po co coś robić, jeżeli "wszystko już zostało odkryte"? Jest to myślenie błędne, ponieważ przez naśladowanie nauczysz się dużo więcej, niż się spodziewasz, a twój klon będziesz mógł dostosowywać i ulepszać. Oto krótka historia.</p>
+</div>
+<div class="paragraph">
+<p>Na internecie bezprzewodowym największą zmorą są nagłe, kilkusekundowe przerwy w dostępie oraz wysokie poziomy pingu. Jednak grając w popularne gry sieciowe, jak CS:GO i Warframe, często problemem nie jest połączenie internetowe, a serwer gry. Dlatego, aby rozróżnić przyczynę "lagów", potrzebowałem programu, który przez cały czas mierzyłby "ping" - opóźnienie między komputerem i wybranym serwerem, w moim przypadku google.pl (bo problemy z Google zdarzają się niezwykle rzadko). Gotowe rozwiązanie istniało - polecenie "ping" z paramerem "-t" będzie działało, dopóki nie zamkniemy okna lub wciśniemy Ctrl-C. Jednak posiadanie okna Wiersza poleceń nie jest wygodne.</p>
+</div>
+<div class="paragraph">
+<p>Rozwiązanie - program używający Windows Presentation Foundation, który będzie:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>działał poprawnie przy powiększonej skali pulpitu (125% lub 150%) - zapewni to WPF</p>
+</li>
+<li>
+<p>wyświetlał się nad innymi oknami - parametr TopMost w WPF, a gry uruchomione w trybie okna bez ramki</p>
+</li>
+<li>
+<p>półprzeźroczysty - parametr Opacity w WPF</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Użyłem więc Visual Studio Community do stworzenia takiego programu, a po drodze dodałem:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>opcje konfiguracji</p>
+</li>
+<li>
+<p>zapisywanie ustawień w formacie JSON</p>
+</li>
+<li>
+<p>wieloinstancyjność - program może być uruchomiony wiele razy jednocześnie, każda instancja będzie korzystała z własnego pliku ustawień</p>
+</li>
+<li>
+<p>różne opóźnienia - program mierzy "ping" co sekundę przy niskich wartościach, co pół sekundy przy wysokich</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Gotowy program możecie znaleźć na <a href="https://github.com/pzmarzly/PingMeterGadget" class="bare">https://github.com/pzmarzly/PingMeterGadget</a></p>
+</div>
+<div class="paragraph">
+<p>Co z tego wszystkiego wyniknęło? Że mój internet jest słaby, ale serwery popularnych gier jeszcze słabsze.</p>
+</div>
+        </section>
+
+        <footer class="post-footer">
+
+
+            <figure class="author-image">
+                <a class="img" href="" style="background-image: url(https://avatars.githubusercontent.com/u/8074163?v=3)"><span class="hidden">Paweł Zmarzły's Picture</span></a>
+            </figure>
+
+            <section class="author">
+                <h4><a href="">Paweł Zmarzły</a></h4>
+
+                <div class="author-meta">
+                    <span class="author-location icon-location">Żory, Poland</span>
+                    
+                </div>
+            </section>
+
+
+            <section class="share">
+                <h4>Udostępnij</h4>
+                <a class="icon-twitter" href="https://twitter.com/share?text=Potrzeba%20matk%C4%85%20wynalazku&amp;url=https://pzmarzly.github.io/g2zory/2016/07/28/Potrzeba-matka-wynalazku.html"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://pzmarzly.github.io/g2zory/2016/07/28/Potrzeba-matka-wynalazku.html"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=https://pzmarzly.github.io/g2zory/2016/07/28/Potrzeba-matka-wynalazku.html"
+                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+
+        </footer>
+
+
+    </article>
+
+</main>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="https://pzmarzly.github.io/g2zory">&lt;zmarzłem&gt;</a> &copy; 2016</section>
+        <section class="poweredby">Proudly published with <a href="http://hubpress.io">HubPress</a></section>
+    </footer>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js?v="></script> 
+      <script type="text/javascript">
+        jQuery( document ).ready(function() {
+          // change date with ago
+          jQuery('ago.ago').each(function(){
+            var element = jQuery(this).parent();
+            element.html( moment(element.text()).fromNow());
+          });
+        });
+
+        hljs.initHighlightingOnLoad();      
+      </script>
+
+    <script type="text/javascript" src="//pzmarzly.github.io/g2zory/themes/Casper/assets/js/jquery.fitvids.js?v=1.0.0"></script>
+    <script type="text/javascript" src="//pzmarzly.github.io/g2zory/themes/Casper/assets/js/index.js?v=1.0.0"></script>
+
+</body>
+</html>
