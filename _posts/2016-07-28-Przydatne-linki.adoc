@@ -1,0 +1,14 @@
+= Przydatne linki
+
+Podstawowe:
+
+* https://code.org/learn
+* https://www.codeschool.com/
+* http://www.w3schools.com/ - jedna z najlepszych stron na temat technologii webowych
+* http://javastart.pl/
+
+Przydatne:
+
+* https://pages.github.com/ - darmowy hosting
+* http://www.dobreprogramy.pl/mikolaj_s/Open-Source-w-edukacji-cz.2,67570.html - dobry wpis o szkole
+* http://4programmers.net/C_sharp - poradnik C#
