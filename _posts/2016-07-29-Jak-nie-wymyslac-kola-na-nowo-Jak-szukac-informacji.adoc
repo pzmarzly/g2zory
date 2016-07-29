@@ -1,0 +1,18 @@
+= Jak nie wymyślać koła na nowo? - Jak szukać informacji?
+
+Dzisiaj krótko, ale nie lubię słyszeć "Nie da się", jeśli chodzi o IT. Wszystko się da, tylko wyszukiwanie informacji w Internecie nie jest umiejętnością opanowaną przez większość.
+
+Zacznijmy od Google. Po pierwsze, wyrażenia po angielsku składające się z rzeczowników (im więcej tym lepiej) prowadzą do najlepszych linków. Wyrażenie takie to na przykład "win 10 anniversary group policies" (możecie poczytać sobie o tym, Microsoft planuje wymuszać reklamy na wszystkich użytkownikach). Wyrażenie zaczynające się od "how" nie są złe, tylko często zwraca mniej szczegółowych wyników.
+
+Ważniejsze jednak jest to, aby sprawdzać nie pierwszy link od góry, ale pierwsze pięć (do ośmiu). Bardzo często to wystarcza, a jeżeli ktoś nie ma zamiaru się tak wysilać, często będzie otrzymywał link do http://lmgtfy.com/.
+
+Jednak Google nie doprowadzi nas do wszystkiego, warto znać miejsca, gdzie można znaleźć niedocenione produkty zrobione przez społeczność, np.
+
+* https://github.com/ - oprogramowanie
+* http://superuser.com/ - szczegółowe informacje o m.in. systemach operacyjnych, sieciach i MS Office
+* http://android.stackexchange.com/ - forum o Androidzie
+* http://stackoverflow.com/ - największa baza wiedzy programistycznej
+* http://www.mpgh.net/ - unikalne treści związane z grami - boty, skrypty, programy, które prawie nigdzie indziej nie znajdą dla siebie miejsca. Można jednak znaleźć dużo ciekawych treści.
+* http://www.mpcforum.pl/ - polski odpowiednik forum wyżej
+
+Każda z tych stron ma wbudowaną wyszukiwarkę, polecam.
